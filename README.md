@@ -42,18 +42,6 @@ Göreceğiniz gibi hedefler büyük ve kapsamlı haliyle bu süreçte destekleri
 Kurs boyunca desteklerinize ihtiyacım olduğunu hatırlatmak istiyorum. Lütfen hem desteklemek hem de kursu daha iyi takip etmek için.
 
 Youtube,  Github, Linkedln ve Instagram gibi platformlardan beni takip etmeyi unutmayınız.
-https://www.youtube.com/channel/UCqqZ...
-https://github.com/Daymenion
-
-
-Kurs boyunca yapmak istediğiniz destekleri de bynogame, patreon veya buymeacoffe gibi platformlardan ya da youtube katıl açıldığında kanala katılarak yapabilirsiniz. 
-https://www.bynogame.com/tr/destekle/...
-https://www.buymeacoffee.com/daymenion
-(patreonu henüz ayarlamadım, patreon ve katılda üyelere özel içerikler de olacak)
-
-Kurs boyunca desteklerinize ihtiyacım olduğunu hatırlatmak istiyorum. Lütfen hem desteklemek hem de kursu daha iyi takip etmek için.
-
-Youtube,  Github, Linkedln ve Instagram gibi platformlardan beni takip etmeyi unutmayınız.
 <p align="left">
 <a href="https://twitter.com/daymenion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daymenion" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daymenion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daymenion" height="30" width="40" /></a>
@@ -61,8 +49,6 @@ Youtube,  Github, Linkedln ve Instagram gibi platformlardan beni takip etmeyi un
 <a href="https://www.youtube.com/c/daymenion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daymenion" height="30" width="40" /></a>
 <a href="https://discord.gg/XZjnjZHJCB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XZjnjZHJCB" height="30" width="40" /></a>
 </p>
-<a href="http://www.instagram.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-https://discord.com/invite/XZjnjZHJCB  (Discord)
 
 Kurs boyunca yapmak istediğiniz destekleri de bynogame, patreon veya buymeacoffe gibi platformlardan ya da youtube katıl açıldığında kanala katılarak yapabilirsiniz. 
 https://www.bynogame.com/tr/destekle/daymenion
