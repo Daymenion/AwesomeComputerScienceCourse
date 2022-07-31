@@ -52,6 +52,7 @@ Youtube,  Github, Linkedln ve Instagram gibi platformlardan beni takip etmeyi un
 
 Kurs boyunca yapmak istediğiniz destekleri de bynogame, patreon veya buymeacoffe gibi platformlardan ya da youtube katıl açıldığında kanala katılarak yapabilirsiniz. 
 https://www.bynogame.com/tr/destekle/daymenion
+#
 https://www.buymeacoffee.com/daymenion
 (patreonu henüz ayarlamadım)
 
