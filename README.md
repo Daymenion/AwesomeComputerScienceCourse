@@ -3,10 +3,10 @@
 
 <a href="https://www.youtube.com/c/Daymenion" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/youtube/channel/subscribers/UCqqZkHcU1YWwW6u241kjBvQ?style=social" /></a>   
-
+# https://www.youtube.com/c/Daymenion
 ## Merhaba Arkadaşlar Sıfırdan İleri Seviyeye Yazılım Geliştirici ve Yapay Zeka kursuna hoş geldiniz!
 
-KURS HAKKINDAKİ BİLGİ VE MÜFREDAT:
+### KURS HAKKINDAKİ BİLGİ VE MÜFREDAT:
 
 Maalesef piyasadaki birçok kurs oldukça vasat seviyede, size hiçbir bilgisayar bilimi bilgisi vermeden konsolda birkaç matematiksel işlem yapma ya da print("Hello world") yazdırmaktan ibaret. Haliyle ben de bu vasatlık içerisinde nicedir yapmayı planladığım "Sıfırdan İleri Seviyeye Yazılım Geliştirici, Python ve Yapay Zeka Kursu" nu duyurmak istiyorum. Kursun özellikleri şu şekilde olacak:
 
@@ -44,8 +44,7 @@ Kurs boyunca desteklerinize ihtiyacım olduğunu hatırlatmak istiyorum. Lütfen
 Youtube,  Github, Linkedln ve Instagram gibi platformlardan beni takip etmeyi unutmayınız.
 https://www.youtube.com/channel/UCqqZ...
 https://github.com/Daymenion
-https://www.linkedin.com/in/daymenion/
-https://www.instagram.com/daymenion/
+<a href="http://www.instagram.com/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daymenion" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 Kurs boyunca yapmak istediğiniz destekleri de bynogame, patreon veya buymeacoffe gibi platformlardan ya da youtube katıl açıldığında kanala katılarak yapabilirsiniz. 
 https://www.bynogame.com/tr/destekle/...
@@ -79,3 +78,7 @@ C) Eğlence
 2) Vloglar: 
 
 Hadi, şimdiden yerinizi alıın.
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/daymenion"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
