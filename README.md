@@ -3,7 +3,7 @@
 
 # https://www.youtube.com/c/Daymenion
 
-Merhaba Arkadaşlar Sıfırdan İleri Seviyeye Yazılım Geliştirici ve Yapay Zela kursuna hoş geldiniz bu videoda Bilgisayar bilimlerine giriş yaptık ve programlamanın temellerini, bilgisayarların kullandığı matematiği, soyutlamayı (abstraction) ve daha bunun gibi konuları içeren Ders 0 konularını işledik. Önümüzdeki dersle beraber Daha da derine ineceğiz. 
+## Merhaba Arkadaşlar Sıfırdan İleri Seviyeye Yazılım Geliştirici ve Yapay Zeka kursuna hoş geldiniz!
 
 KURS HAKKINDAKİ BİLGİ VE MÜFREDAT:
 
