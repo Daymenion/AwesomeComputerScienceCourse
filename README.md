@@ -1,5 +1,5 @@
 # AwesomeComputerScienceCourse
-##This repository is a repository of course codes and homework solutions of my course on youtube (in Turkish).
+## This repository is a repository of course codes and homework solutions of my course on youtube (in Turkish).
 
 # https://www.youtube.com/c/Daymenion
 
