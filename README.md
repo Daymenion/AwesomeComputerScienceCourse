@@ -1,7 +1,8 @@
 # AwesomeComputerScienceCourse
-## This repository is a repository of course codes and homework solutions of my course on youtube (in Turkish).
+### This repository is a repository of course codes and homework solutions of my course on youtube (in Turkish).
 
-# https://www.youtube.com/c/Daymenion
+# <a href="https://www.youtube.com/c/Daymenion" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/youtube/channel/subscribers/UCqqZkHcU1YWwW6u241kjBvQ?style=social" /></a>   
 
 ## Merhaba Arkadaşlar Sıfırdan İleri Seviyeye Yazılım Geliştirici ve Yapay Zeka kursuna hoş geldiniz!
 
